@@ -1,17 +1,17 @@
-Hi there! I'm a **20-year-old programmer from the Netherlands** with a background in **video animation, video editing**, and **programming**. I'm passionate about pushing boundaries in IT and creating innovative projects. I love working on:
+Hi there! I'm a **21-year-old programmer from the Netherlands** with a background in **video animation, video editing**, and **programming**. I'm passionate about pushing boundaries in IT and creating innovative projects. I love working on:
 
-- **Website Development** 🌐
+- **Wen Development** 🌐
 - **Game Development** 🎮
 - **App Development** 📱
 - **Visual Element Design** 🎨
 
-Currently, I'm sharpening my skills in Blender for artistic aspects of web and game development. 🎥✨
+Currently, I'm sharpening my skills in Flutter to build a social, mmo workout app! 🏋️‍♀️
 
 ---
 
 ## My Goals for 2025
 
-- 🚀 Build and launch a **social MMO game**.
+- 🚀 Build and launch a **social MMO workout game**.
 - 📱 Develop a **self-improvement app** for Android.
 - 🎓 Continue learning and growing in **OpenGL** and **RayLib**.
 - 🎨 Create unique 3D models and animations using Blender.
