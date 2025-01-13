@@ -1,7 +1,3 @@
-# Welcome to My GitHub Profile! 👋
-
-## About Me
-
 Hi there! I'm a **20-year-old programmer from the Netherlands** with a background in **video animation, video editing**, and **programming**. I'm passionate about pushing boundaries in IT and creating innovative projects. I love working on:
 
 - **Website Development** 🌐
