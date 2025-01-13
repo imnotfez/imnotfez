@@ -37,18 +37,14 @@ Currently, I'm sharpening my skills in Flutter to build a social, mmo workout ap
 ### 1. **Personal Website Tracker**
 A tracker that detects visitors to my personal website and notifies me via Discord. 🚀
 
-### 2. **Blender Creations**
-Working on simple 3D models, including a cartoon sword! 🗡️
 
-### 3. **OpenGL Experiments**
+### 2. **OpenGL Experiments**
 Experimenting with game physics and rendering techniques. 🎮
 
 ---
 
 ## Let's Connect! 🌟
 
-- [Portfolio Website](https://yourwebsite.com) *(Replace with your actual link)*
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) *(Replace with your actual link)*
-- [Discord](https://discordapp.com/users/yourid) *(Replace with your actual ID)*
+- [Portfolio Website](https://kleeuwerke.nl/) 
 
 Feel free to reach out for collaboration, ideas, or just to say hi! 😄
